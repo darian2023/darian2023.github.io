@@ -1,0 +1,79 @@
+<!doctype html>
+<html>
+  <head>
+    <title>binairstelsel</title>
+    <meta charset="utf-8">
+    <style>
+      body {
+        background-color: rgb(49, 49, 49);
+        color: rgb(0, 255, 0);
+      }
+      .nice-button {
+            background-color: #ab0202;
+            color: #ffffff;
+            padding: 5px 10px;
+            border: none;
+            cursor: pointer;
+            text-decoration: none; /* Remove underlines from the link */
+        }
+
+        .nice-button:hover {
+            background-color: rgb(255, 0, 0); /* Change color on hover */
+        }
+    </style>
+  </head>
+  <body>
+    <button class="nice-button">
+      <a href="index.html" style="color: inherit; text-decoration: none;">homepage</a>
+  </button>
+
+  <br>
+  <br>
+
+      <button class="nice-button">
+        <a href="binairstelsel.html" style="color: inherit; text-decoration: none;">binair stelsel</a>
+    </button>
+
+    <br>
+    <br>
+
+    <button class="nice-button">
+      <a href="kleurmodellen.html" style="color: inherit; text-decoration: none;">kleurmodellen</a>
+  </button>
+
+    <br>
+    <br>
+    <p>Processor (CPU - Central Processing Unit): Dit is het brein van de computer. De CPU voert instructies uit die zijn opgeslagen in het geheugen en coördineert de activiteiten van andere hardwarecomponenten.
+
+        <br>
+
+        Geheugen (RAM - Random Access Memory): RAM is het werkgeheugen van de computer. Het slaat tijdelijk gegevens op die actief worden gebruikt of bewerkt. Het is vluchtig, wat betekent dat de gegevens verloren gaan wanneer de computer wordt uitgeschakeld.
+
+        <br>
+
+        Opslag: Dit is waar gegevens op lange termijn worden opgeslagen, zoals op harde schijven (HDD) of solid-state drives (SSD). In tegenstelling tot RAM, behoudt opslag gegevens zelfs wanneer de computer is uitgeschakeld.
+        
+        <br>
+
+        Moederbord: Dit is het hoofdcircuit van de computer waarop de CPU, het geheugen, de opslag en andere essentiële componenten zijn aangesloten. Het fungeert als de communicatiehub tussen verschillende delen van de computer.
+        
+        <br>
+
+        Ingang en Uitgang (I/O): Hiermee communiceert de computer met de buitenwereld. Toetsenborden, muizen, monitoren en USB-apparaten zijn allemaal voorbeelden van invoer- en uitvoerapparaten.
+        
+        <br>
+
+        Software: Dit zijn de programma's en instructies die de computer uitvoert. Het besturingssysteem (zoals Windows, macOS, Linux) is een essentieel stuk software dat de hardware aanstuurt en andere programma's mogelijk maakt.
+        
+        <br>
+        
+        Instructieset: Dit is de reeks commando's die de CPU begrijpt en uitvoert. Computers begrijpen alleen binaire code (0 en 1), dus elke opdracht wordt omgezet in deze binaire taal.
+    </p>
+    <footer>
+        <p>developer: Darian</p>
+        <button class="nice-button">
+        <p><a href="mailto:darianvanderdoes@gmail.com"style="color: inherit; text-decoration: none;">darianvanderdoes@gmail.com</a></p>
+        </button>
+      </footer>
+  </body>
+</html>
